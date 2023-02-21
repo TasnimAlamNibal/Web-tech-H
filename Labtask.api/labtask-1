@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="welcome_get.php" method="get">
+First Name: <input type="text" name="name"><br>
+Last Name: <input type="text" name="name"><br>
+</form>
+
+Gender:
+  <input type="radio" name="gender" value="female">Female
+  <input type="radio" name="gender" value="male">Male
+  <br><br>
+Degree: 
+  <input type="checkbox" name="checkbox_name" value="checkox_value">
+  <label for="Degree"> SSC</label>
+  <input type="checkbox" name="checkbox_name" value="checkox_value">
+  <label for="Degree"> HSC</label>
+  <input type="checkbox" name="checkbox_name" value="checkox_value">
+  <label for="Degree"> BSC</label><br>
+
+University:
+<select>
+ <option value="Super">AIUB</option>
+ <option value="Super2">UIU</option>
+ <option value="Super3">NSU</option>    
+ <option value="Super4">DU</option>
+ </select><br>
+
+Credit Completed: 
+<select>
+ <option value="Super">100</option>
+ <option value="Super2">130</option>
+ <option value="Super3">60</option>    
+ <option value="Super4">44</option>
+ </select><br>
+
+ <input type="submit">
+
+</body>
+</html>
