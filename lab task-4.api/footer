@@ -1,0 +1,69 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@Nibal21 
+yaarian-om
+/
+W_E_B-T_E_C_H
+Public
+Fork your own copy of yaarian-om/W_E_B-T_E_C_H
+Code
+Issues
+Pull requests
+Actions
+Projects
+Security
+Insights
+W_E_B-T_E_C_H/LabTask_4/Footer.php /
+@yaarian-om
+yaarian-om Uploading LabTask 4 Attemp #4
+Latest commit a3e19fb 2 weeks ago
+ History
+ 1 contributor
+25 lines (22 sloc)  468 Bytes
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <style>
+    footer {
+        text-align: center;
+        padding: 3px;
+        background-color: #f1f1f1;
+    }
+    </style>
+</head>
+
+<body>
+    <hr>
+    <footer>
+        Copyright &copy; <?php echo date("Y"); ?>
+    </footer>
+</body>
+
+</html>
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+W_E_B-T_E_C_H/Footer.php at main · yaarian-om/W_E_B-T_E_C_H
