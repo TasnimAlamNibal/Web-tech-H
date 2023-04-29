@@ -1,0 +1,11 @@
+<?php   
+session_start();
+unset($_SESSION['email']);
+unset($_SESSION['pass']);
+unset($_SESSION['login']);
+unset($_SESSION['first']);
+unset($_SESSION['last']);
+session_destroy();
+header("Location:../View/Login.php");
+exit();
+?>
